@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b49527496c25616469f27bb4c6112a82
+timeCreated: 1510095088
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Defeated
+  fontNames:
+  - Defeated
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
